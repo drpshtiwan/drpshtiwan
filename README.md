@@ -1,7 +1,9 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=drpshtiwan&show_icons=true">
+
 # 💫 Who AM i:
 I am practicing both medicine as a Medical Doctor (M.B.C.h.B) and coding as a Full stack developer for more than 10 years :) 
 
-##  FinD ME
+#  FinD ME
 *  I'm living in Erbil, KRI-Iraq
 *  Get in touch with me through [drpshtiwan@thejano.com](mailto:drpshtiwan@thejano.com)
 *  LinkedIn https://www.linkedin.com/in/drpshtiwan
