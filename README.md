@@ -1,4 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=drpshtiwan&show_icons=true">
 
 # 💫 Who AM i:
 I am practicing both medicine as a Medical Doctor (M.B.C.h.B) and coding as a Full stack developer for more than 10 years :) 
